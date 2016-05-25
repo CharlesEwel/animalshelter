@@ -1,0 +1,28 @@
+.column_dark{
+  float:left;
+  width:18%;
+  background-color:red;
+  color: white;
+  padding: 5px;
+}
+
+.column_light{
+  float:left;
+  width:20%;
+  color: red;
+  padding: 5px;
+}
+
+img{
+  width: 80px;
+  float: left;
+  margin: 5px;
+}
+
+.column_dark img{
+  border: solid white 2px;
+}
+
+.column_light img{
+  border: solid red 2px;
+}
